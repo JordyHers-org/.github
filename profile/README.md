@@ -1,7 +1,4 @@
 
-
-![JordyHersGoogleBanner](https://github.com/JordyHers-org/.github/assets/49708438/4755a661-7cb4-40b2-a09e-942ee2fd750b)
-
 ## About JordyHers
 Welcome to JordyHers, an organization comprising over 80+ talented and passionate Flutter developers. We are dedicated to creating high-quality Flutter packages that empower developers and enhance the Flutter ecosystem. At JordyHers, we believe in the power of collaboration and community-driven development. Our organization consists of a diverse group of Flutter enthusiasts who share a common goal: to build exceptional Flutter packages that solve real-world problems and elevate the Flutter development experience.
 
