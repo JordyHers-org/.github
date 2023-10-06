@@ -28,7 +28,7 @@ For any inquiries or questions, you can reach out to us on Discord or via email 
 
 I would like to thank all contributors and members of this organization:
 
-<img width="461" alt="Screenshot 2023-10-06 at 11 22 24" src="https://github.com/JordyHers-org/.github/assets/49708438/a3a0730c-8420-4380-91fe-760f8f2201ab">
+<img width="421" alt="Screenshot 2023-10-06 at 11 22 24" src="https://github.com/JordyHers-org/.github/assets/49708438/a3a0730c-8420-4380-91fe-760f8f2201ab">
 
 ---
 JordyHers - Empowering the Flutter ecosystem one package at a time.
