@@ -8,7 +8,7 @@ Below are some of the Flutter packages developed and maintained by JordyHers:
 
 - [flutter_any_logo](https://pub.dev/packages/flutter_any_logo) add any logo to your flutter project.
 - [flutter_resume_template](https://pub.dev/packages/flutter_resume_template) display a simple resume template overview that can be edited.
-
+- [flutter_floaty](https://pub.dev/packages/flutter_floaty) gives you a widget that can be positioned anywhere in your stack view.
 
 Visit the individual package repositories to learn more about their features, documentation, and how to integrate them into your Flutter projects. We are committed to providing well-documented, well-tested, and regularly updated packages that meet the highest standards of quality.
 
